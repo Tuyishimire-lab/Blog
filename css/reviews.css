@@ -1,0 +1,41 @@
+/* Style the review content */
+.review {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    color: #333;
+}
+
+.review h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.review-meta {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+.review img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.review h3 {
+    font-size: 1.4rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.review ul {
+    margin-left: 20px;
+}
+
+/* Additional styling for pros and cons list items if needed */
